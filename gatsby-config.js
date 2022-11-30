@@ -8,5 +8,6 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  pathPrefix: "/amyrohman.github.io",
   plugins: [],
 }
